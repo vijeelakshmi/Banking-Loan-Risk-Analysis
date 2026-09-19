@@ -14,26 +14,8 @@ The Overview dashboard provides a high-level view of the banking loan portfolio,
 
 ---
 
-## 🎥 Project Demo
 
-### ▶️ Watch the Full Dashboard Demo
 
-[🎬 Watch Banking Loan Risk Analysis Project Video](Video/Banking_Loan_Risk_Analysis_Demo.mp4)
-
-The project demonstration covers:
-
-- Overview Dashboard
-- Customer Analysis
-- Geographic Analysis
-- Risk Analysis
-- Interactive slicers and filters
-- KPI cards
-- Credit score analysis
-- Risk segmentation
-- Regional analysis
-- Monthly loan trends
-
----
 
 # 📌 Project Overview
 
@@ -100,9 +82,6 @@ Banking-Loan-Risk-Analysis/
 ├── Screenshots/
 │   ├── Overview.png
 │ 
-│
-├── Video/
-│   └── Banking_Loan_Risk_Analysis_Demo.mp4
 │
 └── README.md
 ```
@@ -452,7 +431,7 @@ Deep Sub Prime
 
 ---
 
-## 5️⃣ Risk Analysis
+## 4 Risk Analysis
 
 ### Analysis
 
@@ -509,77 +488,8 @@ Donut chart showing the percentage of loans contributed by each region.
 
 ---
 
-# 📈 Trends Analysis
-
-The Trends Analysis page tracks portfolio performance over time.
-
-### Loan Disbursement Trend
-
-Combination chart showing:
-
-- Loan Amount
-- Number of Loans
-
-### Average Loan Amount Heat Map
-
-Matrix comparing average loan amount by month and day of week.
-
-### Default Rate Trend
-
-Combination chart showing:
-
-- Default Amount
-- Default Rate
-
-### Collections Trend
-
-Combination chart showing:
-
-- Collections Amount
-- Collection Rate
-
-### Seasonality Analysis
-
-Monthly loan activity used to identify periods of higher or lower demand.
-
-### Monthly Trend Summary
-
-Contains:
-
-- Month
-- Loan Amount
-- Number of Loans
-- Average Loan Amount
-- Default Rate
-- Collections Amount
-- Collection Rate
-
----
 
 
----
-
-# 📊 Excel Analysis
-
-Excel was used for:
-
-- Dataset inspection
-- Data validation
-- Pivot tables
-- Pivot charts
-- Exploratory analysis
-- Cross-checking Power BI calculations
-
-Example analyses:
-
-- Loan amount by region
-- Loan count by risk category
-- Default rate by credit score
-- Customer distribution by age
-- Monthly loan trends
-- Loan purpose analysis
-
----
 
 # 🔍 Key Business Insights
 
@@ -640,16 +550,6 @@ The dashboard follows a professional **GreenBank** theme.
 ![Overview Dashboard](Screenshots/Overview.png)
 
 
-
-# 🎥 Project Video
-
-## Full Dashboard Demonstration
-
-[▶️ Watch Banking Loan Risk Analysis Dashboard Demo](Video/Banking Loan.mp4)
-
-The video demonstrates the complete dashboard navigation and analysis workflow.
-
----
 
 # 🚀 How to Use the Project
 
