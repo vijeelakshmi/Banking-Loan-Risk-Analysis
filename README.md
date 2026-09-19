@@ -543,11 +543,6 @@ The dashboard follows a professional **GreenBank** theme.
 
 ---
 
-# 📷 Dashboard Screenshots
-
-## Overview
-
-![Overview Dashboard](Screenshots/Overview.png)
 
 
 
